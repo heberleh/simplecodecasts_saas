@@ -6,6 +6,8 @@ Subscription-based web application
 
 http://codermanual.com
 
+Testing
+
 
 Things you may want to cover:
 
